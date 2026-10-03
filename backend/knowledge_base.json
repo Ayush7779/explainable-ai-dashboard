@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sc_chunk_1",
+    "persona": "supply_chain",
+    "text": "Supply Chain Forecast Q1 2026: Based on historical data, we anticipate a 35% increase in raw material demand during March-April due to seasonal manufacturing peaks. Current inventory levels show 2,400 units of Component A and 1,800 units of Component B.",
+    "source": "Supply_Chain_Forecast_2026.pdf - Page 3",
+    "page": 3
+  },
+  {
+    "id": "sc_chunk_2",
+    "persona": "supply_chain",
+    "text": "Critical Alert: Supplier 'TechParts Inc' has reported a 48-hour delay in shipment of electronic components scheduled for February 7th. This may impact production line efficiency by 12%. Recommend activating backup supplier protocol.",
+    "source": "Supply_Chain_Forecast_2026.pdf - Page 12",
+    "page": 12
+  },
+  {
+    "id": "sc_chunk_3",
+    "persona": "supply_chain",
+    "text": "Optimization Score Analysis: Current score is 68/100. Primary bottleneck identified in logistics coordination between warehouse zones. Implementing AI-powered route optimization could improve score to 85/100.",
+    "source": "Supply_Chain_Forecast_2026.pdf - Page 18",
+    "page": 18
+  },
+  {
+    "id": "edu_chunk_1",
+    "persona": "education",
+    "text": "Mathematics Curriculum - Grade 10: Chapter 4 covers Quadratic Equations. Students should understand the quadratic formula: x = (-b ± √(b²-4ac)) / 2a. Practice problems are available on pages 89-92.",
+    "source": "School_Curriculum_Math_v2.pdf - Page 89",
+    "page": 89
+  },
+  {
+    "id": "edu_chunk_2",
+    "persona": "education",
+    "text": "Student Performance Metrics for January 2026: Average math test score is 78%. Top performers: Class 10-A (85%), Areas needing attention: Geometry concepts in Class 10-C (65%).",
+    "source": "School_Curriculum_Math_v2.pdf - Page 15",
+    "page": 15
+  },
+  {
+    "id": "hr_chunk_1",
+    "persona": "hr",
+    "text": "EmployGenAI HR Policy - Remote Work: Employees are eligible for hybrid work arrangements after 6 months of employment. Remote days: Maximum 3 days per week. Prior approval from team lead required.",
+    "source": "EmployGenAI_HR_Policy.pdf - Page 7",
+    "page": 7
+  },
+  {
+    "id": "hr_chunk_2",
+    "persona": "hr",
+    "text": "Leave Policy Update 2026: Annual leave entitlement is 24 days per year. Sick leave: 12 days. Carry-forward limit: Maximum 5 days to next fiscal year.",
+    "source": "EmployGenAI_HR_Policy.pdf - Page 22",
+    "page": 22
+  },
+  {
+    "id": "hr_chunk_3",
+    "persona": "hr",
+    "text": "Performance Review Cycle: Reviews conducted quarterly. Rating scale: 1 (Needs Improvement) to 5 (Exceptional). Minimum rating of 3 required for annual bonus eligibility.",
+    "source": "EmployGenAI_HR_Policy.pdf - Page 31",
+    "page": 31
+  }
+]
